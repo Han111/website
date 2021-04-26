@@ -60,6 +60,14 @@ content:
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
+    - name: 上线资源
+      sites:
+        - name: 上线了
+          description: 快速轻松地发布一个网站
+          url: https://www.sxl.cn/
+        - name: builder
+          description: Visually build and optimize digital experiences on any tech stack. 
+          url: https://www.builder.io/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
